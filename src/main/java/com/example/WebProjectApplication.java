@@ -22,7 +22,7 @@ public class WebProjectApplication {
                "</head>" +
                "<body style='text-align:center; background-color:#f0f8ff;'>" +
                "<h1 style='color: #4CAF50;'>Welcome to <span style='color: #00008B;'>CloudFolks HUB</span>!</h1>" +
-               "<p style='font-size:20px; color: #555;'>Empowering Your DevOps Journey</p>" +
+               "<p style='font-size:20px; color: #555;'>Empowering Your DevOps Journey With Jenkins</p>" +
                "</body>" +
                "</html>";
     }
